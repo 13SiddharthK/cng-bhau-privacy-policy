@@ -1,0 +1,257 @@
+# Privacy Policy
+
+**Last Updated: 01/11/2026**
+
+---
+
+# मराठी आवृत्ती (Marathi Version)
+
+**CNG अ‍ॅप** तुमच्या गोपनीयतेचा आदर करते. हे Privacy Policy तुमची माहिती आम्ही कशी घेतो, का घेतो आणि कशी वापरतो याबद्दल माहिती देते.
+
+## 1. आम्ही कोणती माहिती गोळा करतो?
+
+अ‍ॅपच्या सर्व मूलभूत सुविधा वापरण्यासाठी वापरकर्त्याला खाते तयार करणे किंवा लॉगिन करणे आवश्यक नाही.
+
+जवळचे CNG पंप शोधण्यासाठी वापरकर्त्याचे वर्तमान लोकेशन वापरले जाऊ शकते. हे लोकेशन फक्त जवळचे CNG पंप शोधण्यासाठी वापरले जाते.
+
+खाते तयार करणाऱ्या वापरकर्त्यांकडून आम्ही खालील माहिती गोळा करू शकतो:
+
+- वापरकर्त्याचे नाव
+- मोबाईल नंबर
+- डिव्हाइस आयडी – एका डिव्हाइसवर लॉगिन मर्यादित ठेवण्यासाठी वापरला जाऊ शकतो. हा Device ID आम्ही डेटाबेसमध्ये Hash स्वरूपात जतन करतो. आम्ही थेट वास्तविक Device ID जतन करत नाही.
+- वापरकर्त्याने केलेल्या CNG पंप संबंधित नोंदी, जसे की पंपचा स्टेटस रिपोर्ट किंवा नवीन CNG पंपची माहिती.
+
+**महत्त्वाचे:**
+
+- जवळचे CNG पंप पाहण्यासाठी खाते किंवा लॉगिन आवश्यक नाही.
+- वापरकर्त्याचे सध्याचे लोकेशन आम्ही फक्त अ‍ॅप वापरत असताना जवळचे CNG पंप दाखवण्यासाठी वापरतो.
+- वापरकर्त्याचे वर्तमान लोकेशन आम्ही कुठेही जतन, सेव्ह किंवा कायमस्वरूपी स्टोअर करत नाही.
+
+## 2. ही माहिती का घेतो?
+
+ही माहिती खालील कारणांसाठी वापरली जाते:
+
+- खाते तयार करण्यासाठी व व्यवस्थापनासाठी
+- सुरक्षित लॉगिन व एका डिव्हाइसवर लॉगिन मर्यादित ठेवण्यासाठी
+- वापरकर्त्याने CNG पंपचा स्टेटस रिपोर्ट केल्यास तो संबंधित वापरकर्त्याशी जोडण्यासाठी
+- नवीन CNG पंपची माहिती सादर करणाऱ्या वापरकर्त्याची ओळख संबंधित नोंदीशी जोडण्यासाठी
+- जवळचे CNG पंप दाखवण्यासाठी
+- CNG पंप लोकेशन व संबंधित माहिती व्यवस्थापित करण्यासाठी
+- अ‍ॅपच्या संबंधित सुविधा योग्य प्रकारे उपलब्ध करून देण्यासाठी
+
+खाते नसतानाही वापरकर्त्याला जवळचे CNG पंप शोधणे, पंपची माहिती पाहणे आणि उपलब्ध असलेली सार्वजनिक पंप माहिती वापरणे शक्य आहे.
+
+लॉगिनची आवश्यकता खाते-आधारित सुविधांसाठी असू शकते, जसे की पंपचा स्टेटस रिपोर्ट करणे, नवीन पंप जोडणे किंवा इतर पंप-संबंधित माहिती सादर करणे.
+
+## 3. लोकेशन वापर
+
+वापरकर्त्याचे वर्तमान लोकेशन फक्त अ‍ॅप चालू असताना जवळचे CNG पंप शोधण्यासाठी वापरले जाते.
+
+लोकेशन डेटा आम्ही कुठेही सेव्ह, स्टोअर किंवा कायमस्वरूपी जतन करत नाही आणि कोणत्याही तृतीय पक्षासोबत शेअर करत नाही.
+
+लोकेशनचा वापर मुख्यतः वापरकर्त्याच्या जवळील CNG पंप शोधण्यासाठी आणि त्यांच्याशी संबंधित अंतर दाखवण्यासाठी केला जाऊ शकतो.
+
+## 4. कॅमेरा परवानगी (Camera Permission)
+
+CNG पंप जोडताना QR कोड किंवा WhatsApp ग्रुप स्कॅन करण्यासाठी अ‍ॅप कॅमेरा परवानगी मागू शकते.
+
+- कॅमेरा फक्त QR कोड किंवा WhatsApp ग्रुप स्कॅन करण्यासाठी वापरला जातो.
+- आम्ही कोणतेही फोटो, व्हिडिओ किंवा कॅमेराद्वारे कॅप्चर केलेली माहिती जतन करत नाही.
+- कॅमेराद्वारे मिळालेली माहिती कोणत्याही तृतीय पक्षासोबत शेअर केली जात नाही.
+- कॅमेरा वापर फक्त वापरकर्त्याने संबंधित फीचर सक्रियपणे वापरल्यासच केला जातो.
+
+## 5. सूचना (Notifications)
+
+CNG अ‍ॅप तुमच्या Favorite CNG पंपांबाबत महत्त्वाचे अपडेट्स देण्यासाठी Notification परवानगी मागू शकते.
+
+- Notification चा वापर तुम्ही Favorite म्हणून सेव्ह केलेल्या CNG पंपांच्या अपडेट्स पाठवण्यासाठी केला जाऊ शकतो.
+- यामध्ये CNG उपलब्धता, Power Cut, Maintenance किंवा इतर संबंधित पंप अपडेट्स असू शकतात.
+- Notification पाठवण्यासाठी आम्ही तुमचे वर्तमान लोकेशन वापरत नाही.
+- तुम्ही कधीही तुमच्या मोबाईलच्या Settings मधून Notifications बंद करू शकता.
+
+## 6. वापरकर्त्याने दिलेली माहिती (User Contributions)
+
+नोंदणीकृत वापरकर्त्यांना CNG पंपशी संबंधित काही माहिती किंवा अपडेट्स सादर करण्याची सुविधा उपलब्ध असू शकते.
+
+यामध्ये उदाहरणार्थ:
+
+- CNG पंपचा स्टेटस रिपोर्ट करणे
+- नवीन CNG पंपची माहिती जोडणे
+- पंपशी संबंधित इतर माहिती किंवा रिपोर्ट सादर करणे
+
+अशा नोंदी अ‍ॅपच्या सेवा सुधारण्यासाठी, पंपची माहिती अद्ययावत ठेवण्यासाठी आणि इतर वापरकर्त्यांना योग्य माहिती उपलब्ध करून देण्यासाठी वापरल्या जाऊ शकतात.
+
+अशा User Contributions संबंधित वापरकर्त्याच्या खात्याशी जोडल्या जाऊ शकतात.
+
+## 7. डेटा सुरक्षा
+
+तुमचा डेटा सुरक्षित ठेवण्यासाठी आम्ही योग्य सुरक्षा उपाय वापरतो.
+
+Device ID केवळ Hash स्वरूपात जतन केला जातो, त्यामुळे आम्ही थेट वास्तविक Device ID डेटाबेसमध्ये जतन करत नाही.
+
+तथापि, इंटरनेटवरून डेटा ट्रान्समिशन किंवा इलेक्ट्रॉनिक स्टोरेजची कोणतीही पद्धत पूर्णपणे सुरक्षित असल्याची हमी देता येत नाही.
+
+## 8. डेटा शेअरिंग
+
+तुमची वैयक्तिक माहिती खालील ठिकाणी विकली किंवा मार्केटिंगसाठी शेअर केली जात नाही:
+
+- जाहिरात कंपन्या
+- असंबंधित तृतीय पक्ष कंपन्या
+- बाहेरील संस्था
+
+कायदेशीर आवश्यकता असल्यास किंवा लागू कायद्याचे पालन करण्यासाठी आवश्यक असल्यास माहिती शेअर केली जाऊ शकते.
+
+अ‍ॅपच्या सुविधा चालवण्यासाठी आवश्यक असल्यास सेवा पुरवठादार आमच्या वतीने माहिती प्रक्रिया करू शकतात.
+
+CNG पंपशी संबंधित सार्वजनिक माहिती, जसे की पंपचे नाव, लोकेशन किंवा उपलब्ध पंप स्टेटस, अ‍ॅपच्या इतर वापरकर्त्यांना दाखवली जाऊ शकते.
+
+## 9. वापरकर्त्याचे हक्क आणि खाते डिलीट करणे
+
+नोंदणीकृत वापरकर्त्यांना त्यांच्या खात्याशी संबंधित माहिती आणि खाते हटवण्याची विनंती करण्याचा अधिकार आहे.
+
+अ‍ॅपमध्ये उपलब्ध Account/Profile/Settings विभागातून खाते डिलीट करण्याची सुविधा उपलब्ध असल्यास, वापरकर्ता तेथून Account Deletion सुरू करू शकतो.
+
+खाते डिलीट केल्यानंतर संबंधित वैयक्तिक माहिती आमच्या प्रणालीमधून हटवली जाईल. लागू कायद्यानुसार किंवा कायदेशीर कारणांसाठी काही माहिती जतन करणे आवश्यक असल्यास त्या मर्यादेपर्यंत अपवाद लागू होऊ शकतो.
+
+वापरकर्ता डेटा किंवा खाते Deletion संदर्भात खालील ईमेलवर संपर्क करू शकतो:
+
+**Email: [YOUR SUPPORT EMAIL]**
+
+## 10. मुलांसाठी धोरण
+
+हे अ‍ॅप 13 वर्षांखालील मुलांसाठी उद्देशित नाही.
+
+## 11. पॉलिसी अपडेट
+
+भविष्यात आम्ही Privacy Policy अपडेट करू शकतो आणि बदल या पेजवर अपडेट केले जातील.
+
+## 12. संपर्क
+
+कुठलीही माहिती हवी असल्यास आम्हाला संपर्क करा:
+
+
+---
+
+# English Version
+
+**CNG App** ("we", "our", or "the app") respects your privacy. This Privacy Policy explains what information we collect, why we collect it, and how we use it.
+
+## 1. Information We Collect
+
+Users are **not required to create an account or log in to use the app's basic features**.
+
+The app may use the user's current location to find nearby CNG pumps. This location is used to provide location-based station discovery.
+
+For users who create an account, we may collect:
+
+- User Name
+- Mobile Number
+- Device ID – this may be used to restrict login to a single device. We store the Device ID in hashed form in our database and do not store the actual/plain Device ID.
+- Information submitted by the user in connection with CNG pumps, such as pump status reports or new CNG pump submissions.
+
+**Important:**
+
+- An account or login is **not required** to find nearby CNG pumps.
+- We use the user's current location only while the app is being used to show nearby CNG pumps.
+- We do **not** store, save, or permanently retain the user's current location.
+
+## 2. Why We Collect This Data
+
+We may use this information to:
+
+- Create and manage user accounts
+- Provide secure login and restrict usage to one device
+- Associate a CNG pump status report with the user who submitted it
+- Associate a new CNG pump submission with the submitting user
+- Show nearby CNG pumps
+- Manage and display CNG pump locations and related information
+- Provide and maintain relevant app functionality
+- Help prevent misuse and maintain the reliability of user submissions
+
+Users can find nearby CNG pumps, view pump information, and access publicly available pump information **without creating an account or logging in**.
+
+Login may be required when a user chooses an account-based feature, such as reporting pump status, adding a new pump, or submitting other pump-related information.
+
+## 3. Location Access
+
+Your current location is used only while the app is running to find nearby CNG pumps and may be used to calculate or display the distance to those pumps.
+
+We do **not** save, store, or permanently retain your current location, and we do not share your current location with third parties.
+
+Location access is used to provide the app's nearby CNG pump discovery functionality.
+
+Users can manage location permissions through their device settings. If location permission is denied, location-based features may not work.
+
+## 4. Camera Permission
+
+The app may request camera access when a user adds a CNG pump and needs to scan a QR code or WhatsApp group information.
+
+- The camera is used only for scanning QR codes or WhatsApp group information.
+- We do not store, save, or retain photos, videos, or camera-captured content.
+- Information obtained through camera scanning is not shared with third parties.
+- Camera access is used only when the user actively uses the relevant feature.
+
+## 5. Notifications
+
+The CNG App may request permission to send notifications to keep you informed about updates related to your favourite CNG pumps.
+
+- Notifications may be used to provide updates for CNG pumps that you have marked as favourites.
+- These notifications may include CNG availability, power cuts, maintenance updates, or other relevant pump status updates.
+- We do not use your current location to send notifications.
+- You can disable notifications at any time through your device settings.
+
+## 6. User Contributions
+
+Registered users may be able to submit information or updates related to CNG pumps.
+
+This may include:
+
+- Reporting CNG pump status
+- Adding information about a new CNG pump
+- Submitting other pump-related information or reports
+
+User-submitted information may be used to maintain and improve CNG pump information and to provide useful information to other app users.
+
+User contributions may be associated with the submitting user's account for purposes such as maintaining submission integrity, managing reports, and preventing misuse.
+
+## 7. Data Security
+
+We take reasonable measures to protect your data.
+
+Device ID is stored only in hashed form, and we do not store the actual/plain Device ID in our database.
+
+However, no method of internet transmission or electronic storage can be guaranteed to be completely secure.
+
+## 8. Data Sharing
+
+We do not sell users' personal information or share it with unrelated third parties for their own marketing purposes.
+
+Information may be disclosed when required by applicable law or when necessary to comply with a legal obligation.
+
+Service providers may process information on our behalf where necessary to operate app features.
+
+Public CNG pump information, such as pump name, location, or available pump status, may be displayed to other users of the app.
+
+## 9. User Rights and Account Deletion
+
+Registered users have the right to request deletion of their account and associated personal information.
+
+Where the account deletion feature is available within the app, users can initiate account deletion through the Account/Profile/Settings section.
+
+When an account is deleted, associated personal information will be deleted from our systems, except for information that we are legally required to retain or that must otherwise be retained for legitimate legal purposes.
+
+For questions or requests related to account or data deletion, users can contact us at:
+
+**Email: [YOUR SUPPORT EMAIL]**
+
+## 10. Children's Privacy
+
+This app is not intended for children under 13.
+
+## 11. Policy Updates
+
+We may update this Privacy Policy in the future. Any changes will be posted on this page along with the revised update date.
+
+## 12. Contact Us
+
+If you have any questions about this Privacy Policy or your privacy rights, contact us at our email.
