@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CNG App - Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f8f5;
+      color: #26352d;
+      line-height: 1.7;
+      margin: 0;
+      padding: 30px 15px;
+    }
+    main {
+      max-width: 850px;
+      margin: auto;
+      background: white;
+      padding: 35px;
+      border-radius: 12px;
+    }
+    h1, h2, h3 { color: #176b4a; }
+    h2 { margin-top: 30px; }
+    a { color: #176b4a; }
+    @media(max-width: 600px) {
+      main { padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <article id="content">Loading Privacy Policy...</article>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch('./index.md')
+      .then(response => {
+        if (!response.ok) throw new Error('Markdown file not found');
+        return response.text();
+      })
+      .then(markdown => {
+        document.getElementById('content').innerHTML =
+          marked.parse(markdown);
+      })
+      .catch(error => {
+        document.getElementById('content').innerHTML =
+          '<h2>Unable to load Privacy Policy</h2>' +
+          '<p>Make sure index.md is in the same folder as index.html.</p>';
+      });
+  </script>
+</body>
+</html>
